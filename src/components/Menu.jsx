@@ -6,27 +6,27 @@ class Menu extends React.Component {
     render() {
         const menuItem = [
             {
-                imageSrc: "src/img/dcream.jpg",
+                imageSrc: "./src/img/dcream.jpg",
                 title: "D'cream",
                 description: "Drink with a combination of coffee and fresh milk to lift your mood."
             },
             {
-                imageSrc: "src/img/greentea.jpg",
+                imageSrc: "./src/img/greentea.jpg",
                 title: "Green tea",
                 description: "Drink with a mixture of sweet green tea to refresh your day."
             },
             {
-                imageSrc: "src/img/thaitea.jpg",
+                imageSrc: "./src/img/thaitea.jpg",
                 title: "Thai tea",
                 description: "Drink with a mixture of sweet thai tea to refresh your day."
             },
             {
-                imageSrc: "src/img/blacktea.jpg",
+                imageSrc: "./src/img/blacktea.jpg",
                 title: "Black tea",
                 description: "Drink with a blend of robust black tea to invigorate your senses"
             },
             {
-                imageSrc: "src/img/jasminetea.jpg",
+                imageSrc: "./src/img/jasminetea.jpg",
                 title: "Jasmine Tea",
                 description: "Unwind with the delicate aroma of jasmine tea to soothe your soul"
             },
