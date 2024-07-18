@@ -15,7 +15,7 @@ class Hero extends React.Component {
             Order Now</button>
         </div>
         <div className="hero-image max-w-[500px]">
-          <img src="src/img/coffee-main.png" />
+          <img src="/img/coffee-main.png" />
         </div>
       </section>
     );

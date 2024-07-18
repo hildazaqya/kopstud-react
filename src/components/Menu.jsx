@@ -41,7 +41,7 @@ class Menu extends React.Component {
                 </h1>
                 <div className="menu-items-all mt-[40px] !max-w-[900px] lg:flex flex-row justify-center items-center gap-[30px] overflow-hidden">
                     <button className="swipe-left hidden lg:block">
-                        <img src="src/img/chevron-left.png" alt="left" className="w-[70px]" />
+                        <img src="/img/chevron-left.png" alt="left" className="w-[70px]" />
                     </button>
                     <Swiper
                         spaceBetween={20}
@@ -79,7 +79,7 @@ class Menu extends React.Component {
                         ))}
                     </Swiper>
                     <button className="swipe-right hidden lg:block">
-                        <img src="src/img/chevron-left.png" alt="right" className="w-[70px] transform rotate-180" />
+                        <img src="/img/chevron-left.png" alt="right" className="w-[70px] transform rotate-180" />
                     </button>
                 </div>
             </section>

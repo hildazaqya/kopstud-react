@@ -11,11 +11,11 @@ class Footer extends React.Component {
                             <div className="h-[8px] w-[250px] my-2.5 bg-white"></div>
                         </h1>
                         <span className="flex items-center gap-2.5">
-                            <img src="src/img/icon-location.png" alt="location" className="w-[36px] h-[36px]" />
+                            <img src="/img/icon-location.png" alt="location" className="w-[36px] h-[36px]" />
                             <p className="text-white text-sm pt-2.5">Jl. Bendungan Sigura-gura No.29 Dinoyo. Lowokwaru, Kota Malang</p>
                         </span>
                         <span className="flex items-center gap-2.5">
-                            <img src="src/img/icon-location.png" alt="location" className="w-[36px] h-[36px]" />
+                            <img src="/img/icon-location.png" alt="location" className="w-[36px] h-[36px]" />
                             <p className="text-white text-sm pt-2.5">kopistudio20@gmail.com</p>
                         </span>
                     </div>

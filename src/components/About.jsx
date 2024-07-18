@@ -10,7 +10,7 @@ class About extends React.Component {
                 </h1>
                 <div className="about-items flex lg:flex-row flex-col items-center justify-center gap-[40px] pt-3">
                     <aside>
-                        <img src="src/img/coffeeshop-place.jpg" alt="coffeeshop place" className="rounded-full max-w-[300px]" />
+                        <img src="/img/coffeeshop-place.jpg" alt="coffeeshop place" className="rounded-full max-w-[300px]" />
                     </aside>
                     <article>
                         <p className="tracking-wide text-base text-[#ffff] text-justify">
